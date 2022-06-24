@@ -2,4 +2,4 @@
 
 
 
-Instalar versão anteriror do Router: v-on:click="closeMenu"
+Instalar versão anteriror do Router: npm install vue-router@3.4.3
